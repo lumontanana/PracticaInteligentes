@@ -1,0 +1,867 @@
+{
+  "map": {
+    "cities": [
+      {
+        "id": 0,
+        "name": "Adra",
+        "lat": 36.74807,
+        "lon": -3.022522
+      },
+      {
+        "id": 1,
+        "name": "Camargo",
+        "lat": 43.40667,
+        "lon": -3.883333
+      },
+      {
+        "id": 2,
+        "name": "Ourense",
+        "lat": 42.34001,
+        "lon": -7.864641
+      },
+      {
+        "id": 3,
+        "name": "Badalona",
+        "lat": 41.45014,
+        "lon": 2.24742
+      },
+      {
+        "id": 4,
+        "name": "Alcal\u00e1 de Guada\u00edra",
+        "lat": 37.33833,
+        "lon": -5.844032
+      },
+      {
+        "id": 5,
+        "name": "Vitoria-Gasteiz",
+        "lat": 42.84641,
+        "lon": -2.667893
+      },
+      {
+        "id": 6,
+        "name": "Palencia",
+        "lat": 42.01246,
+        "lon": -4.531175
+      },
+      {
+        "id": 7,
+        "name": "Blanes",
+        "lat": 41.67427,
+        "lon": 2.792096
+      },
+      {
+        "id": 8,
+        "name": "Alhaur\u00edn de la Torre",
+        "lat": 36.66836,
+        "lon": -4.552967
+      },
+      {
+        "id": 9,
+        "name": "Teruel",
+        "lat": 40.34411,
+        "lon": -1.10691
+      },
+      {
+        "id": 10,
+        "name": "Albacete",
+        "lat": 38.99765,
+        "lon": -1.86007
+      },
+      {
+        "id": 11,
+        "name": "\u00c1guilas",
+        "lat": 37.4038,
+        "lon": -1.581161
+      },
+      {
+        "id": 12,
+        "name": "Barakaldo",
+        "lat": 43.29683,
+        "lon": -2.985259
+      },
+      {
+        "id": 13,
+        "name": "Soria",
+        "lat": 41.7636,
+        "lon": -2.464921
+      },
+      {
+        "id": 14,
+        "name": "Alc\u00e1zar de San Juan",
+        "lat": 39.38993,
+        "lon": -3.210137
+      },
+      {
+        "id": 15,
+        "name": "Huesca",
+        "lat": 42.1401,
+        "lon": -0.408898
+      },
+      {
+        "id": 16,
+        "name": "Almu\u00f1\u00e9car",
+        "lat": 36.73454,
+        "lon": -3.690736
+      },
+      {
+        "id": 17,
+        "name": "C\u00f3rdoba",
+        "lat": 37.88473,
+        "lon": -4.779152
+      },
+      {
+        "id": 18,
+        "name": "Zaragoza",
+        "lat": 41.65629,
+        "lon": -0.8765379
+      },
+      {
+        "id": 19,
+        "name": "\u00c1vila",
+        "lat": 40.65642,
+        "lon": -4.700323
+      },
+      {
+        "id": 20,
+        "name": "Arrasate/Mondrag\u00f3n",
+        "lat": 43.06451,
+        "lon": -2.487716
+      },
+      {
+        "id": 21,
+        "name": "Zamora",
+        "lat": 41.50368,
+        "lon": -5.743778
+      },
+      {
+        "id": 22,
+        "name": "Calahorra",
+        "lat": 42.30372,
+        "lon": -1.965034
+      },
+      {
+        "id": 23,
+        "name": "Ames",
+        "lat": 42.9,
+        "lon": -8.633333
+      },
+      {
+        "id": 24,
+        "name": "Valladolid",
+        "lat": 41.65295,
+        "lon": -4.728388
+      },
+      {
+        "id": 25,
+        "name": "Le\u00f3n",
+        "lat": 42.59988,
+        "lon": -5.571752
+      },
+      {
+        "id": 26,
+        "name": "Lleida",
+        "lat": 41.61415,
+        "lon": 0.6257825
+      },
+      {
+        "id": 27,
+        "name": "Cangas",
+        "lat": 42.26471,
+        "lon": -8.782845
+      },
+      {
+        "id": 28,
+        "name": "Alaqu\u00e0s",
+        "lat": 39.45708,
+        "lon": -0.4610681
+      },
+      {
+        "id": 29,
+        "name": "Almazora/Almassora",
+        "lat": 39.94497,
+        "lon": -0.0633176
+      }
+    ],
+    "roads": [
+      {
+        "origin": 0,
+        "destination": 11,
+        "distance": 180.67
+      },
+      {
+        "origin": 0,
+        "destination": 16,
+        "distance": 74.72
+      },
+      {
+        "origin": 1,
+        "destination": 5,
+        "distance": 162.04
+      },
+      {
+        "origin": 1,
+        "destination": 12,
+        "distance": 94.11
+      },
+      {
+        "origin": 1,
+        "destination": 20,
+        "distance": 151.59
+      },
+      {
+        "origin": 2,
+        "destination": 23,
+        "distance": 114.81
+      },
+      {
+        "origin": 2,
+        "destination": 27,
+        "distance": 116.02
+      },
+      {
+        "origin": 3,
+        "destination": 7,
+        "distance": 60.67
+      },
+      {
+        "origin": 3,
+        "destination": 26,
+        "distance": 167.86
+      },
+      {
+        "origin": 4,
+        "destination": 8,
+        "distance": 197.88
+      },
+      {
+        "origin": 4,
+        "destination": 16,
+        "distance": 261.68
+      },
+      {
+        "origin": 4,
+        "destination": 17,
+        "distance": 140.4
+      },
+      {
+        "origin": 5,
+        "destination": 1,
+        "distance": 162.04
+      },
+      {
+        "origin": 5,
+        "destination": 12,
+        "distance": 70.68
+      },
+      {
+        "origin": 5,
+        "destination": 13,
+        "distance": 185.63
+      },
+      {
+        "origin": 5,
+        "destination": 20,
+        "distance": 38.66
+      },
+      {
+        "origin": 5,
+        "destination": 22,
+        "distance": 136.1
+      },
+      {
+        "origin": 6,
+        "destination": 24,
+        "distance": 49.05
+      },
+      {
+        "origin": 6,
+        "destination": 25,
+        "distance": 132.52
+      },
+      {
+        "origin": 7,
+        "destination": 3,
+        "distance": 60.67
+      },
+      {
+        "origin": 7,
+        "destination": 26,
+        "distance": 225.05
+      },
+      {
+        "origin": 8,
+        "destination": 4,
+        "distance": 197.88
+      },
+      {
+        "origin": 8,
+        "destination": 16,
+        "distance": 95.59
+      },
+      {
+        "origin": 8,
+        "destination": 17,
+        "distance": 165.99
+      },
+      {
+        "origin": 9,
+        "destination": 18,
+        "distance": 178.62
+      },
+      {
+        "origin": 9,
+        "destination": 28,
+        "distance": 151.09
+      },
+      {
+        "origin": 9,
+        "destination": 29,
+        "distance": 139.45
+      },
+      {
+        "origin": 10,
+        "destination": 11,
+        "distance": 243.52
+      },
+      {
+        "origin": 10,
+        "destination": 14,
+        "distance": 160.73
+      },
+      {
+        "origin": 11,
+        "destination": 0,
+        "distance": 180.67
+      },
+      {
+        "origin": 11,
+        "destination": 10,
+        "distance": 243.52
+      },
+      {
+        "origin": 11,
+        "destination": 16,
+        "distance": 254.93
+      },
+      {
+        "origin": 12,
+        "destination": 1,
+        "distance": 94.11
+      },
+      {
+        "origin": 12,
+        "destination": 5,
+        "distance": 70.68
+      },
+      {
+        "origin": 12,
+        "destination": 20,
+        "distance": 60.59
+      },
+      {
+        "origin": 13,
+        "destination": 5,
+        "distance": 185.63
+      },
+      {
+        "origin": 13,
+        "destination": 22,
+        "distance": 118.55
+      },
+      {
+        "origin": 14,
+        "destination": 10,
+        "distance": 160.73
+      },
+      {
+        "origin": 14,
+        "destination": 19,
+        "distance": 231.7
+      },
+      {
+        "origin": 15,
+        "destination": 18,
+        "distance": 73.62
+      },
+      {
+        "origin": 15,
+        "destination": 22,
+        "distance": 196.03
+      },
+      {
+        "origin": 15,
+        "destination": 26,
+        "distance": 116.72
+      },
+      {
+        "origin": 16,
+        "destination": 0,
+        "distance": 74.72
+      },
+      {
+        "origin": 16,
+        "destination": 4,
+        "distance": 261.68
+      },
+      {
+        "origin": 16,
+        "destination": 8,
+        "distance": 95.59
+      },
+      {
+        "origin": 16,
+        "destination": 11,
+        "distance": 254.93
+      },
+      {
+        "origin": 16,
+        "destination": 17,
+        "distance": 228.79
+      },
+      {
+        "origin": 17,
+        "destination": 4,
+        "distance": 140.4
+      },
+      {
+        "origin": 17,
+        "destination": 8,
+        "distance": 165.99
+      },
+      {
+        "origin": 17,
+        "destination": 16,
+        "distance": 228.79
+      },
+      {
+        "origin": 18,
+        "destination": 9,
+        "distance": 178.62
+      },
+      {
+        "origin": 18,
+        "destination": 15,
+        "distance": 73.62
+      },
+      {
+        "origin": 18,
+        "destination": 22,
+        "distance": 127.08
+      },
+      {
+        "origin": 19,
+        "destination": 14,
+        "distance": 231.7
+      },
+      {
+        "origin": 19,
+        "destination": 24,
+        "distance": 139.87
+      },
+      {
+        "origin": 20,
+        "destination": 1,
+        "distance": 151.59
+      },
+      {
+        "origin": 20,
+        "destination": 5,
+        "distance": 38.66
+      },
+      {
+        "origin": 20,
+        "destination": 12,
+        "distance": 60.59
+      },
+      {
+        "origin": 21,
+        "destination": 24,
+        "distance": 99.58
+      },
+      {
+        "origin": 21,
+        "destination": 25,
+        "distance": 142.04
+      },
+      {
+        "origin": 21,
+        "destination": 27,
+        "distance": 373.02
+      },
+      {
+        "origin": 22,
+        "destination": 5,
+        "distance": 136.1
+      },
+      {
+        "origin": 22,
+        "destination": 13,
+        "distance": 118.55
+      },
+      {
+        "origin": 22,
+        "destination": 15,
+        "distance": 196.03
+      },
+      {
+        "origin": 22,
+        "destination": 18,
+        "distance": 127.08
+      },
+      {
+        "origin": 23,
+        "destination": 2,
+        "distance": 114.81
+      },
+      {
+        "origin": 23,
+        "destination": 25,
+        "distance": 335.65
+      },
+      {
+        "origin": 23,
+        "destination": 27,
+        "distance": 100.84
+      },
+      {
+        "origin": 24,
+        "destination": 6,
+        "distance": 49.05
+      },
+      {
+        "origin": 24,
+        "destination": 19,
+        "distance": 139.87
+      },
+      {
+        "origin": 24,
+        "destination": 21,
+        "distance": 99.58
+      },
+      {
+        "origin": 25,
+        "destination": 6,
+        "distance": 132.52
+      },
+      {
+        "origin": 25,
+        "destination": 21,
+        "distance": 142.04
+      },
+      {
+        "origin": 25,
+        "destination": 23,
+        "distance": 335.65
+      },
+      {
+        "origin": 26,
+        "destination": 3,
+        "distance": 167.86
+      },
+      {
+        "origin": 26,
+        "destination": 7,
+        "distance": 225.05
+      },
+      {
+        "origin": 26,
+        "destination": 15,
+        "distance": 116.72
+      },
+      {
+        "origin": 27,
+        "destination": 2,
+        "distance": 116.02
+      },
+      {
+        "origin": 27,
+        "destination": 21,
+        "distance": 373.02
+      },
+      {
+        "origin": 27,
+        "destination": 23,
+        "distance": 100.84
+      },
+      {
+        "origin": 28,
+        "destination": 9,
+        "distance": 151.09
+      },
+      {
+        "origin": 28,
+        "destination": 29,
+        "distance": 87.17
+      },
+      {
+        "origin": 29,
+        "destination": 9,
+        "distance": 139.45
+      },
+      {
+        "origin": 29,
+        "destination": 28,
+        "distance": 87.17
+      }
+    ]
+  },
+  "warehouse": 25,
+  "vehicles": [
+    {
+      "id": 0,
+      "capacity": 60
+    }
+  ],
+  "parcels": [
+    {
+      "id": 0,
+      "city": 11,
+      "weight": 18
+    },
+    {
+      "id": 1,
+      "city": 19,
+      "weight": 27
+    },
+    {
+      "id": 2,
+      "city": 19,
+      "weight": 51
+    },
+    {
+      "id": 3,
+      "city": 8,
+      "weight": 21
+    },
+    {
+      "id": 4,
+      "city": 6,
+      "weight": 31
+    },
+    {
+      "id": 5,
+      "city": 4,
+      "weight": 59
+    },
+    {
+      "id": 6,
+      "city": 19,
+      "weight": 38
+    },
+    {
+      "id": 7,
+      "city": 24,
+      "weight": 35
+    },
+    {
+      "id": 8,
+      "city": 6,
+      "weight": 51
+    },
+    {
+      "id": 9,
+      "city": 2,
+      "weight": 27
+    },
+    {
+      "id": 10,
+      "city": 23,
+      "weight": 17
+    },
+    {
+      "id": 11,
+      "city": 6,
+      "weight": 56
+    },
+    {
+      "id": 12,
+      "city": 23,
+      "weight": 54
+    },
+    {
+      "id": 13,
+      "city": 8,
+      "weight": 55
+    },
+    {
+      "id": 14,
+      "city": 24,
+      "weight": 23
+    },
+    {
+      "id": 15,
+      "city": 27,
+      "weight": 35
+    },
+    {
+      "id": 16,
+      "city": 4,
+      "weight": 31
+    },
+    {
+      "id": 17,
+      "city": 27,
+      "weight": 17
+    },
+    {
+      "id": 18,
+      "city": 24,
+      "weight": 20
+    },
+    {
+      "id": 19,
+      "city": 4,
+      "weight": 52
+    },
+    {
+      "id": 20,
+      "city": 19,
+      "weight": 40
+    },
+    {
+      "id": 21,
+      "city": 17,
+      "weight": 27
+    },
+    {
+      "id": 22,
+      "city": 27,
+      "weight": 60
+    },
+    {
+      "id": 23,
+      "city": 0,
+      "weight": 36
+    },
+    {
+      "id": 24,
+      "city": 21,
+      "weight": 53
+    },
+    {
+      "id": 25,
+      "city": 6,
+      "weight": 29
+    },
+    {
+      "id": 26,
+      "city": 27,
+      "weight": 28
+    },
+    {
+      "id": 27,
+      "city": 24,
+      "weight": 35
+    },
+    {
+      "id": 28,
+      "city": 23,
+      "weight": 28
+    },
+    {
+      "id": 29,
+      "city": 8,
+      "weight": 31
+    },
+    {
+      "id": 30,
+      "city": 16,
+      "weight": 28
+    },
+    {
+      "id": 31,
+      "city": 2,
+      "weight": 56
+    },
+    {
+      "id": 32,
+      "city": 16,
+      "weight": 59
+    },
+    {
+      "id": 33,
+      "city": 4,
+      "weight": 23
+    },
+    {
+      "id": 34,
+      "city": 19,
+      "weight": 13
+    },
+    {
+      "id": 35,
+      "city": 2,
+      "weight": 31
+    },
+    {
+      "id": 36,
+      "city": 10,
+      "weight": 58
+    },
+    {
+      "id": 37,
+      "city": 27,
+      "weight": 60
+    },
+    {
+      "id": 38,
+      "city": 6,
+      "weight": 31
+    },
+    {
+      "id": 39,
+      "city": 11,
+      "weight": 42
+    },
+    {
+      "id": 40,
+      "city": 17,
+      "weight": 36
+    },
+    {
+      "id": 41,
+      "city": 21,
+      "weight": 59
+    },
+    {
+      "id": 42,
+      "city": 19,
+      "weight": 22
+    },
+    {
+      "id": 43,
+      "city": 6,
+      "weight": 32
+    },
+    {
+      "id": 44,
+      "city": 27,
+      "weight": 51
+    },
+    {
+      "id": 45,
+      "city": 8,
+      "weight": 57
+    },
+    {
+      "id": 46,
+      "city": 23,
+      "weight": 16
+    },
+    {
+      "id": 47,
+      "city": 21,
+      "weight": 52
+    },
+    {
+      "id": 48,
+      "city": 10,
+      "weight": 43
+    },
+    {
+      "id": 49,
+      "city": 17,
+      "weight": 35
+    }
+  ]
+}
